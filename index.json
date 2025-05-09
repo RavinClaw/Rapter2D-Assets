@@ -1,0 +1,19 @@
+{
+  "version": "0.0.1-DEV",
+  "files": [
+    "auto_save_2_button_down.png",
+    "auto_save_2_button_up.png",
+    "auto_save_button_down.png",
+    "auto_save_button_up.png",
+    "load_button_down.png",
+    "load_button_up.png",
+    "missing_texture.meta",
+    "missing_texture.png",
+    "reload_button_down.png",
+    "reload_button_up.png",
+    "run_button_up.png",
+    "run_button_down.png",
+    "save_button_down.png",
+    "save_button_up.png"
+  ]
+}
